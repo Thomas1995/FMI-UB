@@ -16,4 +16,9 @@ Cursuri, seminarii FMI UB
 *POO* - Dragulici / Lambru / Tudor <br>
 *LFA* - Paun / Paun / Popovici <br>
 
-
+*TAP* - Marinescu / Popescu / Paduraru <br>
+*Prob&Stat* - Niculescu / Popovici <br>
+*Tehnici Web* - Leustean / Ceica <br>
+*Geom Comp* - Stupariu / Oprea <br>
+*SO* - Baranga / Baranga <br>
+*Calc&Compl* - Mitrana / Gorgescu <br>
